@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.view.menu.ListMenuItemView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="?attr/r_res_0x7f0401f9">
+	<RelativeLayout android:layout_gravity="center_vertical" android:duplicateParentState="true" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="?attr/r_res_0x7f0401fb" android:layout_marginRight="?attr/r_res_0x7f0401fc" android:layout_weight="1">
+		<TextView android:textAppearance="?attr/r_res_0x7f0402e9" android:ellipsize="marquee" android:id="@+id/r_res_0x7f090181" android:fadingEdge="horizontal" android:duplicateParentState="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:singleLine="true" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+		<TextView android:textAppearance="?android:attr/textAppearanceSmall" android:id="@+id/r_res_0x7f090145" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_below="@id/r_res_0x7f090181" android:layout_alignParentLeft="true" />
+	</RelativeLayout>
+</androidx.appcompat.view.menu.ListMenuItemView>
+
+
+

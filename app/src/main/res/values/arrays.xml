@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="r_res_0x7f030000">
+        <item>@string/r_res_0x7f0f0080</item>
+        <item>@string/r_res_0x7f0f007f</item>
+        <item>@string/r_res_0x7f0f0082</item>
+        <item>@string/r_res_0x7f0f0083</item>
+        <item>@string/r_res_0x7f0f0084</item>
+    </array>
+    <array name="r_res_0x7f030001">
+        <item>@string/r_res_0x7f0f0080</item>
+        <item>@string/r_res_0x7f0f007e</item>
+        <item>@string/r_res_0x7f0f0081</item>
+        <item>@string/r_res_0x7f0f0084</item>
+    </array>
+</resources>

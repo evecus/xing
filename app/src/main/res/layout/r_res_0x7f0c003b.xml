@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/r_res_0x7f090075" android:layout_width="match_parent" android:layout_height="match_parent">
+	<LinearLayout android:orientation="vertical" android:background="@color/r_res_0x7f0600d4" android:layout_width="match_parent" android:layout_height="match_parent">
+		<include layout="@layout/r_res_0x7f0c001d" />
+		<include android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" layout="@layout/r_res_0x7f0c0081" />
+		<include layout="@layout/r_res_0x7f0c0038" />
+	</LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+

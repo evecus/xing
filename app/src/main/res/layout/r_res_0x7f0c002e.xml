@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android" android:layout_gravity="left|center_vertical" android:background="#FF444444" android:layout_width="match_parent" android:layout_height="match_parent">
+	<View android:layout_width="wrap_content" android:layout_height="wrap_content" />
+	<it.sephiroth.android.library.imagezoom.ImageViewTouch android:id="@+id/r_res_0x7f0900c9" android:layout_width="match_parent" android:layout_height="match_parent" />
+	<FrameLayout android:layout_gravity="bottom" android:background="#80000000" android:layout_width="match_parent" android:layout_height="?attr/r_res_0x7f040003">
+		<androidx.core.widget.ContentLoadingProgressBar android:layout_gravity="center_vertical" android:id="@+id/r_res_0x7f09011d" android:padding="@dimen/r_res_0x7f070159" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/r_res_0x7f10023e" />
+		<LinearLayout android:layout_gravity="left" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="match_parent">
+			<androidx.appcompat.widget.AppCompatImageView android:id="@+id/r_res_0x7f090144" android:padding="@dimen/r_res_0x7f07016d" android:layout_width="?attr/r_res_0x7f040003" android:layout_height="?attr/r_res_0x7f040003" android:foreground="@drawable/r_res_0x7f080078" android:src="@drawable/r_res_0x7f08007b" />
+			<androidx.appcompat.widget.AppCompatImageView android:id="@+id/r_res_0x7f090129" android:padding="@dimen/r_res_0x7f07016d" android:layout_width="?attr/r_res_0x7f040003" android:layout_height="?attr/r_res_0x7f040003" android:foreground="@drawable/r_res_0x7f080078" android:src="@drawable/r_res_0x7f080079" />
+			<androidx.appcompat.widget.AppCompatImageView android:id="@+id/r_res_0x7f0900cd" android:padding="@dimen/r_res_0x7f07016d" android:layout_width="?attr/r_res_0x7f040003" android:layout_height="?attr/r_res_0x7f040003" android:foreground="@drawable/r_res_0x7f080078" android:src="@drawable/r_res_0x7f080070" />
+		</LinearLayout>
+	</FrameLayout>
+</FrameLayout>
+
+

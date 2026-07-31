@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/r_res_0x7f0900f2" android:paddingLeft="@dimen/r_res_0x7f0700cd" android:paddingTop="@dimen/r_res_0x7f0700eb" android:paddingRight="@dimen/r_res_0x7f0700cd" android:paddingBottom="16dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+	<com.google.android.material.textfield.TextInputLayout android:id="@+id/r_res_0x7f0900fd" android:layout_width="match_parent" android:layout_height="wrap_content">
+		<com.google.android.material.textfield.TextInputEditText android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="@string/r_res_0x7f0f0066" android:inputType="20" android:imeOptions="268435456" />
+	</com.google.android.material.textfield.TextInputLayout>
+</FrameLayout>
+

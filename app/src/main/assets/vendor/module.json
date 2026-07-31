@@ -1,0 +1,17 @@
+{
+	"modulePackageName": "org.roam",
+	"moduleProductSerial": "XHEXPNT_260511CN-SK10_domestic",
+	"moduleType": "vendor",
+	"moduleBuildTime": "Sat May 23 22:03:04 CST 2026",
+	"modulePatchLevel": "2026-01,Year",
+	"moduleFeatures": {
+		"vendor_target_os_api": 36,
+		"product_target_res_api": 100,
+		"support_androidx_library": true,
+		"support_backinvoked_callback": false,
+		"support_full_olua_library": false,
+		"support_system_utils_library": true,
+		"support_new_import_module": true,
+		"support_new_loadlayout_module": true
+	}
+}

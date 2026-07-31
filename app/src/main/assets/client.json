@@ -1,0 +1,30 @@
+{
+    "modules": [
+        "import",
+        "loadlayout",
+        "shader_utils",
+        "system_utils"
+    ],
+    "name": "ROAM Explore",
+    "packageName": "org.roam",
+    "theme": "default.json",
+    "userPermission": [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.CAMERA",
+        "android.permission.INTERNET",
+        "android.permission.MANAGE_EXTERNAL_STORAGE",
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.POST_PROMOTED_NOTIFICATIONS",
+        "android.permission.QUERY_ALL_PACKAGES",
+        "android.permission.READ_MEDIA_AUDIO",
+        "android.permission.READ_MEDIA_IMAGES",
+        "android.permission.READ_MEDIA_VIDEO",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.VIBRATE",
+        "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "versionCode": 100,
+    "versionName": "100.0.1_mainline_rc01_release"
+}

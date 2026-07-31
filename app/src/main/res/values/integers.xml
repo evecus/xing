@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="r_res_0x7f0a0000">220</integer>
+    <integer name="r_res_0x7f0a0001">150</integer>
+    <integer name="r_res_0x7f0a0002">150</integer>
+    <integer name="r_res_0x7f0a0003">150</integer>
+    <integer name="r_res_0x7f0a0004">127</integer>
+    <integer name="r_res_0x7f0a0005">150</integer>
+    <integer name="r_res_0x7f0a0006">2</integer>
+    <integer name="r_res_0x7f0a0007">300</integer>
+    <integer name="r_res_0x7f0a0008">320</integer>
+    <integer name="r_res_0x7f0a0009">4</integer>
+    <integer name="r_res_0x7f0a000a">100</integer>
+    <integer name="r_res_0x7f0a000b">100</integer>
+    <integer name="r_res_0x7f0a000c">1</integer>
+    <integer name="r_res_0x7f0a000d">1</integer>
+    <integer name="r_res_0x7f0a000e">3</integer>
+    <integer name="r_res_0x7f0a000f">75</integer>
+    <integer name="r_res_0x7f0a0010">120</integer>
+    <integer name="r_res_0x7f0a0011">100</integer>
+    <integer name="r_res_0x7f0a0012">250</integer>
+    <integer name="r_res_0x7f0a0013">200</integer>
+    <integer name="r_res_0x7f0a0014">999</integer>
+</resources>

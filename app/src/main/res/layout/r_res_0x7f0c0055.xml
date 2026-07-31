@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="@dimen/r_res_0x7f0700d9">
+	<LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:id="@+id/r_res_0x7f0900f9" android:paddingLeft="@dimen/r_res_0x7f0700d6" android:paddingRight="@dimen/r_res_0x7f0700d6" android:layout_width="match_parent" android:layout_height="@dimen/r_res_0x7f0700d9" android:baselineAligned="false" android:paddingStart="@dimen/r_res_0x7f0700d6" android:paddingEnd="@dimen/r_res_0x7f0700d6" style="?attr/r_res_0x7f04020c">
+		<FrameLayout android:id="@+id/r_res_0x7f0900fb" android:paddingLeft="@dimen/r_res_0x7f0700dc" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:paddingStart="@dimen/r_res_0x7f0700dc">
+			<include layout="@layout/r_res_0x7f0c0058" />
+			<include layout="@layout/r_res_0x7f0c0057" />
+		</FrameLayout>
+		<include layout="@layout/r_res_0x7f0c0059" />
+	</LinearLayout>
+	<View android:layout_gravity="bottom" android:layout_width="match_parent" android:layout_height="@dimen/r_res_0x7f0700d8" style="?attr/r_res_0x7f04020b" />
+</merge>
+
+

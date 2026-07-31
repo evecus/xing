@@ -1,0 +1,14 @@
+{
+    "vendor": "../vendor/*",
+    "dynamic_library": "../vendor/dynamic_libs/*",
+    "lua_ext": "../vendor/kernel/*",
+    "apps_path": "../pages/*",
+    "apps_path_ext": [
+        "../pages/*",
+        "../pages_ext/*",
+        "../pages_ext-custom/*",
+        "../pages_ext-global/*",
+        "../pages_ext-system/*"
+    ],
+    "key": "../projects/app_bundles/assets/vendor/PKG_KEY_BASE.bin"
+}

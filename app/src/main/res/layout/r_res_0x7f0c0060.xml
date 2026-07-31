@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/r_res_0x7f090160" android:layout_width="match_parent" android:layout_height="128dp">
+	<include android:layout_width="@dimen/r_res_0x7f07014b" android:layout_height="@dimen/r_res_0x7f07014a" layout="@layout/r_res_0x7f0c0065" />
+	<include android:layout_width="48dp" android:layout_height="48dp" android:layout_marginLeft="2dp" android:layout_marginRight="2dp" android:layout_alignParentRight="true" android:layout_alignParentEnd="true" layout="@layout/r_res_0x7f0c005f" />
+	<include android:layout_gravity="112" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/r_res_0x7f07014b" android:layout_toLeftOf="@id/r_res_0x7f09005c" android:layout_marginStart="@dimen/r_res_0x7f07014b" android:layout_toStartOf="@id/r_res_0x7f09005c" layout="@layout/r_res_0x7f0c0066" />
+	<LinearLayout android:orientation="horizontal" android:id="@+id/r_res_0x7f0900e0" android:layout_width="match_parent" android:layout_height="48dp" android:layout_marginLeft="12dp" android:layout_marginRight="12dp" android:layout_alignParentBottom="true" android:layoutDirection="ltr" />
+	<ImageView android:id="@+id/r_res_0x7f09003a" android:background="?android:attr/dividerhorizontal" android:layout_width="match_parent" android:layout_height="1dp" android:layout_above="@id/r_res_0x7f0900e0" />
+</RelativeLayout>
+
+

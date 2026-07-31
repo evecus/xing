@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="r_res_0x7f100049" parent="@style/r_res_0x7f100092">
+    </style>
+    <style name="r_res_0x7f100050" parent="@style/r_res_0x7f100093">
+    </style>
+    <style name="r_res_0x7f100081" parent="@style/r_res_0x7f1001dd">
+        <item name="android:backgroundDimAmount">0.32</item>
+        <item name="android:checkedTextViewStyle">@style/r_res_0x7f10027d</item>
+        <item name="android:dialogCornerRadius">@null</item>
+        <item name="r_res_0x7f040025">@style/r_res_0x7f1000e6</item>
+        <item name="r_res_0x7f040069">@style/r_res_0x7f100275</item>
+        <item name="r_res_0x7f04006a">@style/r_res_0x7f100275</item>
+        <item name="r_res_0x7f04006b">@style/r_res_0x7f100276</item>
+        <item name="r_res_0x7f04006c">@style/r_res_0x7f100275</item>
+        <item name="r_res_0x7f040200">@style/r_res_0x7f1000e7</item>
+    </style>
+    <style name="r_res_0x7f100092" parent="@style/r_res_0x7f10008f">
+        <item name="r_res_0x7f0400fe">?android:attr/dialogCornerRadius</item>
+    </style>
+    <style name="r_res_0x7f100093" parent="@style/r_res_0x7f100090">
+        <item name="r_res_0x7f0400fe">?android:attr/dialogCornerRadius</item>
+    </style>
+</resources>

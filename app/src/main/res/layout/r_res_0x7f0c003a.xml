@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:paddingLeft="@dimen/r_res_0x7f070098" android:paddingTop="@dimen/r_res_0x7f070099" android:paddingRight="@dimen/r_res_0x7f070098" android:paddingBottom="@dimen/r_res_0x7f070099" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/r_res_0x7f070098" android:paddingVertical="@dimen/r_res_0x7f070099">
+	<androidx.cardview.widget.CardView android:id="@+id/r_res_0x7f090138" android:layout_width="match_parent" android:layout_height="wrap_content" app:cardCornerRadius="4dp" app:cardElevation="0dp" app:layout_constraintLeft_toLeftOf="0">
+		<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="@dimen/r_res_0x7f070157">
+			<androidx.appcompat.widget.AppCompatImageView android:id="@+id/r_res_0x7f0900af" android:background="?attr/r_res_0x7f040280" android:layout_width="24dp" android:layout_height="24dp" android:src="@drawable/r_res_0x7f08006c" android:onClick="onHomeButtonClick" android:layout_marginStart="@dimen/r_res_0x7f070162" />
+			<EditText android:textSize="14sp" android:id="@+id/r_res_0x7f09013b" android:background="@null" android:layout_width="0dp" android:layout_height="match_parent" android:maxLines="1" android:singleLine="true" android:layout_weight="1" android:imeOptions="actionGo" android:paddingStart="16dp" />
+			<LinearLayout android:orientation="horizontal" android:id="@+id/r_res_0x7f0900b3" android:layout_width="wrap_content" android:layout_height="wrap_content">
+				<ImageView android:id="@+id/r_res_0x7f0900e1" android:background="?attr/r_res_0x7f040280" android:layout_width="@dimen/r_res_0x7f070163" android:layout_height="@dimen/r_res_0x7f070163" android:src="@drawable/r_res_0x7f080073" />
+			</LinearLayout>
+		</LinearLayout>
+	</androidx.cardview.widget.CardView>
+</FrameLayout>
+
+

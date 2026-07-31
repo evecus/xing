@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:paddingLeft="@dimen/r_res_0x7f070098" android:paddingTop="@dimen/r_res_0x7f070099" android:paddingRight="@dimen/r_res_0x7f070098" android:paddingBottom="@dimen/r_res_0x7f070099" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/r_res_0x7f070098" android:paddingVertical="@dimen/r_res_0x7f070099">
+	<androidx.appcompat.widget.AppCompatImageView android:id="@+id/r_res_0x7f0900af" android:background="?attr/r_res_0x7f040280" android:layout_width="24dp" android:layout_height="24dp" android:onClick="onHomeButtonClick" app:layout_constraintBottom_toBottomOf="@id/r_res_0x7f090184" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintTop_toTopOf="@id/r_res_0x7f090184" />
+	<LinearLayout android:orientation="vertical" android:id="@+id/r_res_0x7f090184" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="16dp" android:layout_marginRight="16dp" android:layout_marginHorizontal="16dp" app:layout_constraintLeft_toRightOf="@id/r_res_0x7f0900af" app:layout_constraintRight_toLeftOf="@id/r_res_0x7f0900b3" app:layout_constraintTop_toTopOf="0">
+		<TextView android:textColor="@color/r_res_0x7f0600d1" android:ellipsize="marquee" android:gravity="start" android:id="@+id/r_res_0x7f0900b1" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Title" android:singleLine="true" />
+		<TextView android:textColor="@color/r_res_0x7f0600d4" android:gravity="start" android:id="@+id/r_res_0x7f0900b0" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/r_res_0x7f070158" android:alpha="1316827955" />
+	</LinearLayout>
+	<LinearLayout android:orientation="horizontal" android:id="@+id/r_res_0x7f0900b3" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="@id/r_res_0x7f090184" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toTopOf="@id/r_res_0x7f090184">
+		<ImageView android:id="@+id/r_res_0x7f0900e1" android:background="?attr/r_res_0x7f040280" android:layout_width="@dimen/r_res_0x7f070163" android:layout_height="@dimen/r_res_0x7f070163" android:src="@drawable/r_res_0x7f080073" />
+	</LinearLayout>
+	<androidx.cardview.widget.CardView android:id="@+id/r_res_0x7f090138" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="16dp" app:cardCornerRadius="4dp" app:cardElevation="0dp" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintTop_toBottomOf="@id/r_res_0x7f090184">
+		<LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="48dp">
+			<androidx.appcompat.widget.AppCompatImageView android:layout_gravity="center_vertical" android:id="@+id/r_res_0x7f090135" android:layout_width="@dimen/r_res_0x7f070163" android:layout_height="@dimen/r_res_0x7f070163" android:tint="@color/r_res_0x7f060063" android:layout_marginStart="@dimen/r_res_0x7f070162" android:layout_marginEnd="@dimen/r_res_0x7f070162" />
+			<androidx.appcompat.widget.AppCompatEditText android:textSize="14sp" android:id="@+id/r_res_0x7f09013b" android:background="@null" android:layout_width="0dp" android:layout_height="match_parent" android:maxLines="1" android:singleLine="true" android:layout_weight="1" android:imeOptions="actionGo" />
+		</LinearLayout>
+	</androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+

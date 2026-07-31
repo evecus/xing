@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="58dp" style="@style/r_res_0x7f100108">
+	<ImageView android:id="@android:id/icon_frame" android:visibility="invisible" android:layout_width="@dimen/r_res_0x7f070029" android:layout_height="48dp" android:scaleType="centerInside" android:layout_alignParentTop="true" android:layout_alignParentBottom="true" style="@style/r_res_0x7f100109" />
+	<ImageView android:id="@+id/r_res_0x7f09009b" android:background="?attr/r_res_0x7f04027f" android:visibility="gone" android:layout_width="48dp" android:layout_height="48dp" android:scaleType="centerInside" android:layout_alignParentTop="true" android:layout_alignParentBottom="true" style="@style/r_res_0x7f10010b" />
+	<ImageView android:id="@android:id/secondaryProgress" android:visibility="gone" android:layout_width="48dp" android:layout_height="48dp" android:scaleType="centerInside" android:layout_alignParentTop="true" android:layout_alignParentBottom="true" android:layout_alignWithParentIfMissing="true" style="@style/r_res_0x7f10010a" />
+	<TextView android:textAppearance="?attr/r_res_0x7f0402ec" android:gravity="center_horizontal" android:id="@android:id/text2" android:paddingBottom="4dp" android:visibility="gone" android:layout_width="match_parent" android:layout_height="29dp" android:singleLine="true" android:layout_alignParentBottom="true" android:layout_alignWithParentIfMissing="true" style="?android:attr/buttonStyle" />
+	<TextView android:textAppearance="?attr/r_res_0x7f0402ed" android:id="@android:id/text1" android:layout_width="match_parent" android:layout_height="wrap_content" android:singleLine="true" android:layout_above="@android:id/text2" android:layout_centerVertical="true" style="?android:attr/buttonStyle" />
+</RelativeLayout>
+
+
+
+

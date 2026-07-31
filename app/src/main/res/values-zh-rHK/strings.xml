@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="r_res_0x7f0f0000">瀏覽主頁</string>
+    <string name="r_res_0x7f0f0001">向上瀏覽</string>
+    <string name="r_res_0x7f0f0002">更多選項</string>
+    <string name="r_res_0x7f0f0003">完成</string>
+    <string name="r_res_0x7f0f0004">查看全部</string>
+    <string name="r_res_0x7f0f0005">選擇應用程式</string>
+    <string name="r_res_0x7f0f0006">關閉</string>
+    <string name="r_res_0x7f0f0007">開啟</string>
+    <string name="r_res_0x7f0f0008">Alt +</string>
+    <string name="r_res_0x7f0f0009">Ctrl +</string>
+    <string name="r_res_0x7f0f000a">刪除</string>
+    <string name="r_res_0x7f0f000b">Enter 鍵</string>
+    <string name="r_res_0x7f0f000c">Fn +</string>
+    <string name="r_res_0x7f0f000d">Meta +</string>
+    <string name="r_res_0x7f0f000e">Shift +</string>
+    <string name="r_res_0x7f0f000f">空白鍵</string>
+    <string name="r_res_0x7f0f0010">Sym +</string>
+    <string name="r_res_0x7f0f0011">Menu +</string>
+    <string name="r_res_0x7f0f0012">搜尋…</string>
+    <string name="r_res_0x7f0f0013">清除查詢</string>
+    <string name="r_res_0x7f0f0014">搜尋查詢</string>
+    <string name="r_res_0x7f0f0015">搜尋</string>
+    <string name="r_res_0x7f0f0016">提交查詢</string>
+    <string name="r_res_0x7f0f0017">語音搜尋</string>
+    <string name="r_res_0x7f0f0018">分享對象</string>
+    <string name="r_res_0x7f0f0019">使用「%s」分享</string>
+    <string name="r_res_0x7f0f001a">收合</string>
+    <string name="r_res_0x7f0f002f">星環</string>
+    <string name="r_res_0x7f0f0075">搜尋</string>
+    <string name="r_res_0x7f0f0076">999+</string>
+</resources>

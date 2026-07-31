@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:id="@+id/r_res_0x7f090188" android:layout_width="match_parent" android:layout_height="wrap_content">
+	<LinearLayout android:id="@+id/r_res_0x7f090185" style="?attr/r_res_0x7f040203">
+		<ImageView android:id="@android:id/icon" style="?attr/r_res_0x7f040202" />
+		<androidx.appcompat.widget.DialogTitle android:id="@+id/r_res_0x7f090046" style="?attr/r_res_0x7f040204" />
+	</LinearLayout>
+	<android.widget.Space android:id="@+id/r_res_0x7f090182" android:visibility="gone" android:layout_width="match_parent" android:layout_height="@dimen/r_res_0x7f070026" />
+</LinearLayout>
+
+
+

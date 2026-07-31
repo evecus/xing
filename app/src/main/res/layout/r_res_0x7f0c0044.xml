@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheckedTextView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:ellipsize="marquee" android:gravity="right|center_vertical" android:id="@android:id/text1" android:paddingLeft="@dimen/r_res_0x7f07003a" android:paddingRight="?attr/r_res_0x7f0400ff" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="?attr/r_res_0x7f0401f9" android:drawablePadding="20dp" android:textAlignment="viewStart" android:paddingStart="@dimen/r_res_0x7f07003a" android:paddingEnd="?attr/r_res_0x7f0400ff" app:drawableLeftCompat="@null" app:drawableStartCompat="@null" />
+
+

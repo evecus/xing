@@ -1,0 +1,2079 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="r_res_0x7f040000" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040001" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040002" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040003" format="dimension">
+        <enum name="r_res_0x7f09019e" value="0" />
+    </attr>
+    <attr name="r_res_0x7f040004" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040005" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040006" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040007" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040008" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040009" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04000a" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04000b" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04000c" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04000d" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04000e" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04000f" format="reference|color">
+    </attr>
+    <attr name="r_res_0x7f040010" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040011" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040012" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040013" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040014" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040015" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040016" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040017" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040018" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040019" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04001a" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04001b" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04001c" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04001d" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04001e" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04001f" format="string">
+    </attr>
+    <attr name="r_res_0x7f040020" format="float">
+    </attr>
+    <attr name="r_res_0x7f040021" format="string">
+    </attr>
+    <attr name="r_res_0x7f040022" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040023" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040024" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040025" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040026" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040027" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040028" format="float">
+    </attr>
+    <attr name="r_res_0x7f040029">
+        <flag name="r_res_0x7f090000" value="0x2" />
+        <flag name="r_res_0x7f090003" value="0x1000" />
+        <flag name="r_res_0x7f090004" value="0x8" />
+        <flag name="r_res_0x7f090005" value="0x10000" />
+        <flag name="r_res_0x7f090007" value="0x1" />
+        <flag name="r_res_0x7f09000b" value="0x4" />
+    </attr>
+    <attr name="r_res_0x7f04002a" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04002b" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04002c">
+        <enum name="r_res_0x7f0900a3" value="1" />
+        <enum name="r_res_0x7f09014b" value="0" />
+    </attr>
+    <attr name="r_res_0x7f04002d" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04002e" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04002f">
+        <enum name="r_res_0x7f0900aa" value="2" />
+        <enum name="r_res_0x7f09015c" value="1" />
+        <enum name="r_res_0x7f09015d" value="0" />
+    </attr>
+    <attr name="r_res_0x7f040030" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040031" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040032" format="string">
+    </attr>
+    <attr name="r_res_0x7f040033" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040034" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040035" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040036" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040037" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040038">
+        <enum name="r_res_0x7f090105" value="0" />
+        <enum name="r_res_0x7f090193" value="1" />
+    </attr>
+    <attr name="r_res_0x7f040039">
+        <enum name="r_res_0x7f09004a" value="4" />
+        <enum name="r_res_0x7f09004b" value="3" />
+        <enum name="r_res_0x7f0900d1" value="2" />
+        <enum name="r_res_0x7f0900d2" value="1" />
+        <enum name="r_res_0x7f090105" value="0" />
+    </attr>
+    <attr name="r_res_0x7f04003a" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04003b" format="color">
+    </attr>
+    <attr name="r_res_0x7f04003c" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04003d" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04003e" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04003f" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040040" format="float">
+    </attr>
+    <attr name="r_res_0x7f040041" format="reference|color">
+    </attr>
+    <attr name="r_res_0x7f040042" format="reference|color">
+    </attr>
+    <attr name="r_res_0x7f040043" format="color">
+    </attr>
+    <attr name="r_res_0x7f040044">
+        <enum name="r_res_0x7f090044" value="16" />
+        <enum name="r_res_0x7f090101" value="14" />
+        <enum name="r_res_0x7f09012e" value="15" />
+        <enum name="r_res_0x7f090157" value="9" />
+        <enum name="r_res_0x7f090158" value="5" />
+        <enum name="r_res_0x7f090159" value="3" />
+    </attr>
+    <attr name="r_res_0x7f040045">
+        <enum name="r_res_0x7f090001" value="8388693" />
+        <enum name="r_res_0x7f090002" value="8388691" />
+        <enum name="r_res_0x7f09000c" value="8388661" />
+        <enum name="r_res_0x7f09000d" value="8388659" />
+    </attr>
+    <attr name="r_res_0x7f040046" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040047" format="color">
+    </attr>
+    <attr name="r_res_0x7f040048" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040049" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04004a">
+        <enum name="r_res_0x7f090058" value="3" />
+        <enum name="r_res_0x7f09009c" value="6" />
+        <enum name="r_res_0x7f0900d6" value="0" />
+        <enum name="r_res_0x7f090123" value="1" />
+        <enum name="r_res_0x7f09015b" value="5" />
+        <enum name="r_res_0x7f090187" value="2" />
+    </attr>
+    <attr name="r_res_0x7f04004b" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04004c" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04004d" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04004e" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04004f" format="reference|dimension">
+    </attr>
+    <attr name="r_res_0x7f040050" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040051" format="reference|float">
+    </attr>
+    <attr name="r_res_0x7f040052" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040053" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040054" format="dimension">
+        <enum name="r_res_0x7f09004f" value="-1" />
+    </attr>
+    <attr name="r_res_0x7f040055">
+        <flag name="r_res_0x7f090048" value="0xffffffff" />
+        <flag name="r_res_0x7f0900a8" value="0x2" />
+        <flag name="r_res_0x7f0900c0" value="0x4" />
+        <flag name="r_res_0x7f090105" value="0x0" />
+        <flag name="r_res_0x7f090116" value="0x1" />
+        <flag name="r_res_0x7f09014a" value="0x8" />
+    </attr>
+    <attr name="r_res_0x7f040056" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040057" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040058" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040059" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04005a" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04005b" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04005c" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04005d" format="color">
+    </attr>
+    <attr name="r_res_0x7f04005e">
+        <enum name="r_res_0x7f0900a7" value="1" />
+        <enum name="r_res_0x7f090105" value="0" />
+        <enum name="r_res_0x7f09010c" value="2" />
+    </attr>
+    <attr name="r_res_0x7f04005f" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040060" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040061" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040062" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040063" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040064" format="color">
+    </attr>
+    <attr name="r_res_0x7f040065" format="color">
+    </attr>
+    <attr name="r_res_0x7f040066" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040067" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040068" format="float">
+    </attr>
+    <attr name="r_res_0x7f040069" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04006a" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04006b" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04006c" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04006d" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04006e" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04006f">
+        <flag name="r_res_0x7f090058" value="0x50" />
+        <flag name="r_res_0x7f090060" value="0x10" />
+        <flag name="r_res_0x7f090187" value="0x30" />
+    </attr>
+    <attr name="r_res_0x7f040070" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040071" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040072" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040073" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040074" format="color">
+    </attr>
+    <attr name="r_res_0x7f040075">
+        <enum name="r_res_0x7f090044" value="16" />
+        <enum name="r_res_0x7f090101" value="14" />
+        <enum name="r_res_0x7f09012e" value="15" />
+        <enum name="r_res_0x7f090157" value="9" />
+        <enum name="r_res_0x7f090158" value="5" />
+        <enum name="r_res_0x7f090159" value="3" />
+    </attr>
+    <attr name="r_res_0x7f040076" format="color">
+    </attr>
+    <attr name="r_res_0x7f040077" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040078" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040079" format="color">
+    </attr>
+    <attr name="r_res_0x7f04007a" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04007b" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04007c" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04007d" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04007e" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04007f" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040080" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040081" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040082" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040083" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040084" format="color">
+    </attr>
+    <attr name="r_res_0x7f040085" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040086" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040087" format="color">
+    </attr>
+    <attr name="r_res_0x7f040088" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040089" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04008a" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04008b" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04008c" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04008d" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04008e" format="color">
+    </attr>
+    <attr name="r_res_0x7f04008f" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040090" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040091" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040092" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040093" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040094" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040095" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040096" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040097" format="color">
+    </attr>
+    <attr name="r_res_0x7f040098" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040099" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04009a" format="color">
+    </attr>
+    <attr name="r_res_0x7f04009b" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04009c">
+        <flag name="r_res_0x7f0900d1" value="0x100" />
+        <flag name="r_res_0x7f0900d2" value="0x1000" />
+        <flag name="r_res_0x7f090186" value="0x11" />
+        <flag name="r_res_0x7f09018a" value="0x1" />
+        <flag name="r_res_0x7f09018b" value="0x10" />
+    </attr>
+    <attr name="r_res_0x7f04009d" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04009e" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04009f" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0400a0" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0400a1" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0400a2" format="color">
+    </attr>
+    <attr name="r_res_0x7f0400a3" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f0400a4" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0400a5" format="string">
+    </attr>
+    <attr name="r_res_0x7f0400a6" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0400a7">
+        <flag name="r_res_0x7f090058" value="0x50" />
+        <flag name="r_res_0x7f09005e" value="0x11" />
+        <flag name="r_res_0x7f09005f" value="0x1" />
+        <flag name="r_res_0x7f090060" value="0x10" />
+        <flag name="r_res_0x7f09009c" value="0x800005" />
+        <flag name="r_res_0x7f0900a6" value="0x70" />
+        <flag name="r_res_0x7f0900d6" value="0x3" />
+        <flag name="r_res_0x7f090123" value="0x5" />
+        <flag name="r_res_0x7f09015b" value="0x800003" />
+        <flag name="r_res_0x7f090187" value="0x30" />
+    </attr>
+    <attr name="r_res_0x7f0400a8" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0400a9" format="color">
+    </attr>
+    <attr name="r_res_0x7f0400aa" format="color">
+    </attr>
+    <attr name="r_res_0x7f0400ab" format="color">
+    </attr>
+    <attr name="r_res_0x7f0400ac" format="color">
+    </attr>
+    <attr name="r_res_0x7f0400ad" format="color">
+    </attr>
+    <attr name="r_res_0x7f0400ae" format="color">
+    </attr>
+    <attr name="r_res_0x7f0400af" format="color">
+    </attr>
+    <attr name="r_res_0x7f0400b0" format="reference|color">
+    </attr>
+    <attr name="r_res_0x7f0400b1" format="reference|string|integer|boolean|color|float|dimension|fraction">
+    </attr>
+    <attr name="r_res_0x7f0400b2" format="color">
+    </attr>
+    <attr name="r_res_0x7f0400b3" format="color">
+    </attr>
+    <attr name="r_res_0x7f0400b4" format="color">
+    </attr>
+    <attr name="r_res_0x7f0400b5" format="color">
+    </attr>
+    <attr name="r_res_0x7f0400b6" format="color">
+    </attr>
+    <attr name="r_res_0x7f0400b7" format="color">
+    </attr>
+    <attr name="r_res_0x7f0400b8" format="color">
+    </attr>
+    <attr name="r_res_0x7f0400b9" format="color">
+    </attr>
+    <attr name="r_res_0x7f0400ba" format="color">
+    </attr>
+    <attr name="r_res_0x7f0400bb" format="color">
+    </attr>
+    <attr name="r_res_0x7f0400bc" format="color">
+    </attr>
+    <attr name="r_res_0x7f0400bd" format="color">
+    </attr>
+    <attr name="r_res_0x7f0400be" format="color">
+    </attr>
+    <attr name="r_res_0x7f0400bf" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0400c0" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0400c1" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0400c2" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0400c3" format="string">
+    </attr>
+    <attr name="r_res_0x7f0400c4" format="string">
+    </attr>
+    <attr name="r_res_0x7f0400c5" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0400c6" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0400c7" format="string">
+    </attr>
+    <attr name="r_res_0x7f0400c8" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0400c9" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0400ca" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0400cb" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0400cc" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0400cd" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0400ce" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0400cf" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0400d0" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0400d1" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0400d2" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0400d3" format="color">
+    </attr>
+    <attr name="r_res_0x7f0400d4" format="float">
+    </attr>
+    <attr name="r_res_0x7f0400d5" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0400d6" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0400d7">
+        <enum name="r_res_0x7f090079" value="1" />
+        <enum name="r_res_0x7f090127" value="0" />
+    </attr>
+    <attr name="r_res_0x7f0400d8">
+        <enum name="r_res_0x7f090079" value="1" />
+        <enum name="r_res_0x7f090127" value="0" />
+    </attr>
+    <attr name="r_res_0x7f0400d9">
+        <enum name="r_res_0x7f090079" value="1" />
+        <enum name="r_res_0x7f090127" value="0" />
+    </attr>
+    <attr name="r_res_0x7f0400da">
+        <enum name="r_res_0x7f090079" value="1" />
+        <enum name="r_res_0x7f090127" value="0" />
+    </attr>
+    <attr name="r_res_0x7f0400db">
+        <enum name="r_res_0x7f090079" value="1" />
+        <enum name="r_res_0x7f090127" value="0" />
+    </attr>
+    <attr name="r_res_0x7f0400dc" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0400dd" format="dimension|fraction">
+    </attr>
+    <attr name="r_res_0x7f0400de" format="dimension|fraction">
+    </attr>
+    <attr name="r_res_0x7f0400df" format="dimension|fraction">
+    </attr>
+    <attr name="r_res_0x7f0400e0" format="dimension|fraction">
+    </attr>
+    <attr name="r_res_0x7f0400e1" format="dimension|fraction">
+    </attr>
+    <attr name="r_res_0x7f0400e2" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f0400e3" format="integer">
+    </attr>
+    <attr name="r_res_0x7f0400e4" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0400e5" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0400e6" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0400e7" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0400e8" format="float">
+    </attr>
+    <attr name="r_res_0x7f0400e9" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0400ea">
+        <enum name="r_res_0x7f0900d9" value="1" />
+        <enum name="r_res_0x7f090152" value="0" />
+    </attr>
+    <attr name="r_res_0x7f0400eb" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f0400ec" format="color">
+    </attr>
+    <attr name="r_res_0x7f0400ed" format="color">
+    </attr>
+    <attr name="r_res_0x7f0400ee" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0400ef" format="float">
+    </attr>
+    <attr name="r_res_0x7f0400f0" format="integer">
+    </attr>
+    <attr name="r_res_0x7f0400f1" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0400f2" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0400f3" format="string">
+    </attr>
+    <attr name="r_res_0x7f0400f4" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0400f5" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0400f6" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0400f7" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0400f8" format="integer">
+    </attr>
+    <attr name="r_res_0x7f0400f9" format="string">
+    </attr>
+    <attr name="r_res_0x7f0400fa" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0400fb" format="float">
+    </attr>
+    <attr name="r_res_0x7f0400fc" format="float">
+    </attr>
+    <attr name="r_res_0x7f0400fd" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0400fe" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0400ff" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040100" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040101">
+        <flag name="r_res_0x7f09008a" value="0x20" />
+        <flag name="r_res_0x7f0900c2" value="0x4" />
+        <flag name="r_res_0x7f090105" value="0x0" />
+        <flag name="r_res_0x7f090146" value="0x10" />
+        <flag name="r_res_0x7f090147" value="0x2" />
+        <flag name="r_res_0x7f090148" value="0x8" />
+        <flag name="r_res_0x7f090196" value="0x1" />
+    </attr>
+    <attr name="r_res_0x7f040102" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040103" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040104" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040105" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040106">
+        <enum name="r_res_0x7f09008d" value="1" />
+        <enum name="r_res_0x7f09008e" value="5" />
+        <enum name="r_res_0x7f09008f" value="2" />
+        <enum name="r_res_0x7f090090" value="3" />
+        <enum name="r_res_0x7f090091" value="4" />
+        <enum name="r_res_0x7f090092" value="0" />
+    </attr>
+    <attr name="r_res_0x7f040107" format="float">
+    </attr>
+    <attr name="r_res_0x7f040108" format="float">
+    </attr>
+    <attr name="r_res_0x7f040109">
+        <enum name="r_res_0x7f09004d" value="4" />
+        <enum name="r_res_0x7f090080" value="3" />
+        <enum name="r_res_0x7f090105" value="0" />
+        <enum name="r_res_0x7f090114" value="1" />
+        <enum name="r_res_0x7f090115" value="2" />
+        <enum name="r_res_0x7f090120" value="5" />
+    </attr>
+    <attr name="r_res_0x7f04010a" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04010b" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04010c" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04010d" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04010e" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04010f" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040110" format="color">
+    </attr>
+    <attr name="r_res_0x7f040111">
+        <enum name="r_res_0x7f090044" value="16" />
+        <enum name="r_res_0x7f090101" value="14" />
+        <enum name="r_res_0x7f09012e" value="15" />
+        <enum name="r_res_0x7f090157" value="9" />
+        <enum name="r_res_0x7f090158" value="5" />
+        <enum name="r_res_0x7f090159" value="3" />
+    </attr>
+    <attr name="r_res_0x7f040112" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040113" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040114" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040115" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040116" format="integer">
+    </attr>
+    <attr name="r_res_0x7f040117" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040118" format="reference|color">
+    </attr>
+    <attr name="r_res_0x7f040119" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04011a" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04011b" format="color">
+    </attr>
+    <attr name="r_res_0x7f04011c" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04011d" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04011e" format="string">
+    </attr>
+    <attr name="r_res_0x7f04011f" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040120">
+        <enum name="r_res_0x7f09006b" value="2" />
+        <enum name="r_res_0x7f090077" value="-1" />
+        <enum name="r_res_0x7f090097" value="3" />
+        <enum name="r_res_0x7f090105" value="0" />
+        <enum name="r_res_0x7f090113" value="1" />
+    </attr>
+    <attr name="r_res_0x7f040121" format="color">
+    </attr>
+    <attr name="r_res_0x7f040122">
+        <enum name="r_res_0x7f090101" value="14" />
+        <enum name="r_res_0x7f09012e" value="15" />
+        <enum name="r_res_0x7f090157" value="9" />
+        <enum name="r_res_0x7f090158" value="5" />
+        <enum name="r_res_0x7f090159" value="3" />
+    </attr>
+    <attr name="r_res_0x7f040123" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040124" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040125" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040126" format="string">
+    </attr>
+    <attr name="r_res_0x7f040127" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040128" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040129" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04012a">
+        <enum name="r_res_0x7f090101" value="14" />
+        <enum name="r_res_0x7f09012e" value="15" />
+        <enum name="r_res_0x7f090157" value="9" />
+        <enum name="r_res_0x7f090158" value="5" />
+        <enum name="r_res_0x7f090159" value="3" />
+    </attr>
+    <attr name="r_res_0x7f04012b" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04012c" format="color">
+    </attr>
+    <attr name="r_res_0x7f04012d" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04012e" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04012f">
+        <flag name="r_res_0x7f090058" value="0x50" />
+        <flag name="r_res_0x7f09005e" value="0x11" />
+        <flag name="r_res_0x7f09005f" value="0x1" />
+        <flag name="r_res_0x7f090060" value="0x10" />
+        <flag name="r_res_0x7f09009c" value="0x800005" />
+        <flag name="r_res_0x7f0900a6" value="0x70" />
+        <flag name="r_res_0x7f0900d6" value="0x3" />
+        <flag name="r_res_0x7f090123" value="0x5" />
+        <flag name="r_res_0x7f09015b" value="0x800003" />
+        <flag name="r_res_0x7f090187" value="0x30" />
+    </attr>
+    <attr name="r_res_0x7f040130" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040131" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040132" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040133" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040134" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040135" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040136" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040137" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040138">
+        <enum name="r_res_0x7f09005e" value="0" />
+        <enum name="r_res_0x7f09009c" value="1" />
+    </attr>
+    <attr name="r_res_0x7f040139">
+        <enum name="r_res_0x7f09012d" value="0" />
+        <enum name="r_res_0x7f09014b" value="1" />
+    </attr>
+    <attr name="r_res_0x7f04013a" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04013b" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04013c" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04013d" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04013e">
+        <enum name="r_res_0x7f09004f" value="-1" />
+        <enum name="r_res_0x7f0900e4" value="1" />
+        <enum name="r_res_0x7f090106" value="0" />
+    </attr>
+    <attr name="r_res_0x7f04013f" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040140" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040141" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040142" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040143" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040144" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040145" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040146" format="float">
+    </attr>
+    <attr name="r_res_0x7f040147">
+        <enum name="r_res_0x7f09010d" value="2" />
+        <enum name="r_res_0x7f090154" value="0" />
+        <enum name="r_res_0x7f090155" value="1" />
+    </attr>
+    <attr name="r_res_0x7f040148" format="float">
+    </attr>
+    <attr name="r_res_0x7f040149">
+        <enum name="r_res_0x7f09010d" value="2" />
+        <enum name="r_res_0x7f090154" value="0" />
+        <enum name="r_res_0x7f090155" value="1" />
+    </attr>
+    <attr name="r_res_0x7f04014a">
+        <enum name="r_res_0x7f09005e" value="2" />
+        <enum name="r_res_0x7f09009c" value="1" />
+        <enum name="r_res_0x7f09015b" value="0" />
+    </attr>
+    <attr name="r_res_0x7f04014b" format="float">
+    </attr>
+    <attr name="r_res_0x7f04014c" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04014d">
+        <enum name="r_res_0x7f09010d" value="2" />
+        <enum name="r_res_0x7f090154" value="0" />
+        <enum name="r_res_0x7f090155" value="1" />
+    </attr>
+    <attr name="r_res_0x7f04014e" format="float">
+    </attr>
+    <attr name="r_res_0x7f04014f">
+        <enum name="r_res_0x7f09010d" value="2" />
+        <enum name="r_res_0x7f090154" value="0" />
+        <enum name="r_res_0x7f090155" value="1" />
+    </attr>
+    <attr name="r_res_0x7f040150" format="float">
+    </attr>
+    <attr name="r_res_0x7f040151">
+        <enum name="r_res_0x7f09010d" value="2" />
+        <enum name="r_res_0x7f090154" value="0" />
+        <enum name="r_res_0x7f090155" value="1" />
+    </attr>
+    <attr name="r_res_0x7f040152" format="integer">
+    </attr>
+    <attr name="r_res_0x7f040153" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040154">
+        <enum name="r_res_0x7f090054" value="3" />
+        <enum name="r_res_0x7f090058" value="1" />
+        <enum name="r_res_0x7f09005e" value="2" />
+        <enum name="r_res_0x7f090187" value="0" />
+    </attr>
+    <attr name="r_res_0x7f040155" format="float">
+    </attr>
+    <attr name="r_res_0x7f040156" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040157">
+        <enum name="r_res_0x7f09010d" value="2" />
+        <enum name="r_res_0x7f090154" value="0" />
+        <enum name="r_res_0x7f090155" value="1" />
+    </attr>
+    <attr name="r_res_0x7f040158">
+        <enum name="r_res_0x7f090047" value="2" />
+        <enum name="r_res_0x7f090061" value="1" />
+        <enum name="r_res_0x7f090105" value="0" />
+    </attr>
+    <attr name="r_res_0x7f040159" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04015a" format="string">
+    </attr>
+    <attr name="r_res_0x7f04015b" format="string">
+    </attr>
+    <attr name="r_res_0x7f04015c" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04015d">
+        <enum name="r_res_0x7f09004e" value="1" />
+        <enum name="r_res_0x7f090057" value="0" />
+    </attr>
+    <attr name="r_res_0x7f04015e" format="integer">
+        <enum name="r_res_0x7f0900ad" value="-1" />
+    </attr>
+    <attr name="r_res_0x7f04015f" format="string">
+    </attr>
+    <attr name="r_res_0x7f040160" format="string">
+    </attr>
+    <attr name="r_res_0x7f040161">
+        <enum name="r_res_0x7f0900cf" value="1" />
+        <enum name="r_res_0x7f090106" value="0" />
+    </attr>
+    <attr name="r_res_0x7f040162" format="string">
+    </attr>
+    <attr name="r_res_0x7f040163" format="integer">
+    </attr>
+    <attr name="r_res_0x7f040164" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040165" format="integer">
+    </attr>
+    <attr name="r_res_0x7f040166" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040167" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040168" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040169" format="color">
+    </attr>
+    <attr name="r_res_0x7f04016a" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04016b" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04016c" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04016d" format="string">
+    </attr>
+    <attr name="r_res_0x7f04016e" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04016f" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040170" format="color">
+    </attr>
+    <attr name="r_res_0x7f040171" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040172" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040173" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040174" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040175" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040176" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040177" format="color">
+    </attr>
+    <attr name="r_res_0x7f040178" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040179" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04017a" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04017b" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04017c" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04017d" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04017e">
+        <flag name="r_res_0x7f09009c" value="0x3" />
+        <flag name="r_res_0x7f09015b" value="0x1" />
+        <flag name="r_res_0x7f090174" value="0x4" />
+        <flag name="r_res_0x7f090177" value="0x2" />
+    </attr>
+    <attr name="r_res_0x7f04017f" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040180" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040181" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040182" format="color">
+    </attr>
+    <attr name="r_res_0x7f040183">
+        <enum name="r_res_0x7f090044" value="16" />
+        <enum name="r_res_0x7f090101" value="14" />
+        <enum name="r_res_0x7f09012e" value="15" />
+        <enum name="r_res_0x7f090157" value="9" />
+        <enum name="r_res_0x7f090158" value="5" />
+        <enum name="r_res_0x7f090159" value="3" />
+    </attr>
+    <attr name="r_res_0x7f040184" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040185" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040186" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040187" format="string">
+    </attr>
+    <attr name="r_res_0x7f040188" format="reference|color">
+    </attr>
+    <attr name="r_res_0x7f040189" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04018a" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04018b" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04018c" format="color">
+    </attr>
+    <attr name="r_res_0x7f04018d" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04018e" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04018f" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040190" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040191" format="color">
+    </attr>
+    <attr name="r_res_0x7f040192" format="integer" min="1">
+    </attr>
+    <attr name="r_res_0x7f040193" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040194" format="color">
+    </attr>
+    <attr name="r_res_0x7f040195" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040196" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040197" format="color">
+    </attr>
+    <attr name="r_res_0x7f040198" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040199" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04019a" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04019b" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04019c" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04019d" format="color">
+    </attr>
+    <attr name="r_res_0x7f04019e" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04019f" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0401a0" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0401a1" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0401a2" format="color">
+    </attr>
+    <attr name="r_res_0x7f0401a3">
+        <enum name="r_res_0x7f090080" value="0" />
+        <enum name="r_res_0x7f090111" value="2" />
+        <enum name="r_res_0x7f090115" value="1" />
+    </attr>
+    <attr name="r_res_0x7f0401a4" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0401a5">
+        <enum name="r_res_0x7f0900ab" value="0" />
+        <enum name="r_res_0x7f0900ba" value="2" />
+        <enum name="r_res_0x7f09019c" value="1" />
+    </attr>
+    <attr name="r_res_0x7f0401a6" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0401a7">
+        <enum name="r_res_0x7f09004f" value="-1" />
+        <enum name="r_res_0x7f0900d3" value="1" />
+        <enum name="r_res_0x7f090143" value="0" />
+        <enum name="r_res_0x7f090194" value="2" />
+    </attr>
+    <attr name="r_res_0x7f0401a8" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0401a9" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0401aa" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0401ab">
+        <enum name="r_res_0x7f0900c3" value="1" />
+        <enum name="r_res_0x7f0900c8" value="0" />
+    </attr>
+    <attr name="r_res_0x7f0401ac" format="string">
+    </attr>
+    <attr name="r_res_0x7f0401ad" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0401ae">
+        <flag name="r_res_0x7f090058" value="0x50" />
+        <flag name="r_res_0x7f09005e" value="0x11" />
+        <flag name="r_res_0x7f09005f" value="0x1" />
+        <flag name="r_res_0x7f090060" value="0x10" />
+        <flag name="r_res_0x7f09006c" value="0x8" />
+        <flag name="r_res_0x7f09006d" value="0x80" />
+        <flag name="r_res_0x7f09009c" value="0x800005" />
+        <flag name="r_res_0x7f0900a4" value="0x77" />
+        <flag name="r_res_0x7f0900a5" value="0x7" />
+        <flag name="r_res_0x7f0900a6" value="0x70" />
+        <flag name="r_res_0x7f0900d6" value="0x3" />
+        <flag name="r_res_0x7f090123" value="0x5" />
+        <flag name="r_res_0x7f09015b" value="0x800003" />
+        <flag name="r_res_0x7f090187" value="0x30" />
+    </attr>
+    <attr name="r_res_0x7f0401af" format="string">
+    </attr>
+    <attr name="r_res_0x7f0401b0">
+        <enum name="r_res_0x7f090105" value="0" />
+        <enum name="r_res_0x7f09010e" value="2" />
+        <enum name="r_res_0x7f090118" value="1" />
+    </attr>
+    <attr name="r_res_0x7f0401b1" format="float">
+    </attr>
+    <attr name="r_res_0x7f0401b2" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f0401b3" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f0401b4" format="integer">
+    </attr>
+    <attr name="r_res_0x7f0401b5" format="reference">
+        <enum name="r_res_0x7f09010f" value="0" />
+    </attr>
+    <attr name="r_res_0x7f0401b6" format="integer">
+    </attr>
+    <attr name="r_res_0x7f0401b7" format="reference">
+        <enum name="r_res_0x7f09010f" value="0" />
+    </attr>
+    <attr name="r_res_0x7f0401b8" format="reference">
+        <enum name="r_res_0x7f09010f" value="0" />
+    </attr>
+    <attr name="r_res_0x7f0401b9" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0401ba" format="integer">
+    </attr>
+    <attr name="r_res_0x7f0401bb" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0401bc" format="string">
+    </attr>
+    <attr name="r_res_0x7f0401bd" format="reference">
+        <enum name="r_res_0x7f09010f" value="0" />
+    </attr>
+    <attr name="r_res_0x7f0401be" format="reference">
+        <enum name="r_res_0x7f09010f" value="0" />
+    </attr>
+    <attr name="r_res_0x7f0401bf" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0401c0" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0401c1" format="float">
+    </attr>
+    <attr name="r_res_0x7f0401c2">
+        <enum name="r_res_0x7f090117" value="2" />
+        <enum name="r_res_0x7f090154" value="0" />
+        <enum name="r_res_0x7f09019d" value="1" />
+    </attr>
+    <attr name="r_res_0x7f0401c3" format="dimension">
+        <enum name="r_res_0x7f09019d" value="-2" />
+    </attr>
+    <attr name="r_res_0x7f0401c4" format="dimension">
+        <enum name="r_res_0x7f09019d" value="-2" />
+    </attr>
+    <attr name="r_res_0x7f0401c5" format="float">
+    </attr>
+    <attr name="r_res_0x7f0401c6" format="float">
+    </attr>
+    <attr name="r_res_0x7f0401c7">
+        <enum name="r_res_0x7f09010d" value="2" />
+        <enum name="r_res_0x7f090154" value="0" />
+        <enum name="r_res_0x7f090155" value="1" />
+    </attr>
+    <attr name="r_res_0x7f0401c8" format="float">
+    </attr>
+    <attr name="r_res_0x7f0401c9" format="integer">
+    </attr>
+    <attr name="r_res_0x7f0401ca" format="reference">
+        <enum name="r_res_0x7f09010f" value="0" />
+    </attr>
+    <attr name="r_res_0x7f0401cb" format="reference">
+        <enum name="r_res_0x7f09010f" value="0" />
+    </attr>
+    <attr name="r_res_0x7f0401cc" format="integer">
+    </attr>
+    <attr name="r_res_0x7f0401cd" format="reference">
+        <enum name="r_res_0x7f09010f" value="0" />
+    </attr>
+    <attr name="r_res_0x7f0401ce" format="reference">
+        <enum name="r_res_0x7f09010f" value="0" />
+    </attr>
+    <attr name="r_res_0x7f0401cf" format="reference">
+        <enum name="r_res_0x7f09010f" value="0" />
+    </attr>
+    <attr name="r_res_0x7f0401d0" format="reference">
+        <enum name="r_res_0x7f09010f" value="0" />
+    </attr>
+    <attr name="r_res_0x7f0401d1" format="string">
+    </attr>
+    <attr name="r_res_0x7f0401d2" format="integer">
+    </attr>
+    <attr name="r_res_0x7f0401d3" format="reference">
+        <enum name="r_res_0x7f09010f" value="0" />
+    </attr>
+    <attr name="r_res_0x7f0401d4" format="reference">
+        <enum name="r_res_0x7f09010f" value="0" />
+    </attr>
+    <attr name="r_res_0x7f0401d5" format="float">
+    </attr>
+    <attr name="r_res_0x7f0401d6">
+        <enum name="r_res_0x7f09010d" value="2" />
+        <enum name="r_res_0x7f090154" value="0" />
+        <enum name="r_res_0x7f090155" value="1" />
+    </attr>
+    <attr name="r_res_0x7f0401d7" format="float">
+    </attr>
+    <attr name="r_res_0x7f0401d8">
+        <enum name="r_res_0x7f090117" value="2" />
+        <enum name="r_res_0x7f090154" value="0" />
+        <enum name="r_res_0x7f09019d" value="1" />
+    </attr>
+    <attr name="r_res_0x7f0401d9" format="dimension">
+        <enum name="r_res_0x7f09019d" value="-2" />
+    </attr>
+    <attr name="r_res_0x7f0401da" format="dimension">
+        <enum name="r_res_0x7f09019d" value="-2" />
+    </attr>
+    <attr name="r_res_0x7f0401db" format="float">
+    </attr>
+    <attr name="r_res_0x7f0401dc">
+        <flag name="r_res_0x7f090048" value="0x77" />
+        <flag name="r_res_0x7f090058" value="0x50" />
+        <flag name="r_res_0x7f09009c" value="0x800005" />
+        <flag name="r_res_0x7f0900d6" value="0x3" />
+        <flag name="r_res_0x7f090105" value="0x0" />
+        <flag name="r_res_0x7f090123" value="0x5" />
+        <flag name="r_res_0x7f09015b" value="0x800003" />
+        <flag name="r_res_0x7f090187" value="0x30" />
+    </attr>
+    <attr name="r_res_0x7f0401dd" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0401de" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0401df" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0401e0" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0401e1" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0401e2" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0401e3" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0401e4" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0401e5">
+        <enum name="r_res_0x7f090058" value="80" />
+        <enum name="r_res_0x7f09009c" value="8388613" />
+        <enum name="r_res_0x7f0900d6" value="3" />
+        <enum name="r_res_0x7f090105" value="0" />
+        <enum name="r_res_0x7f090123" value="5" />
+        <enum name="r_res_0x7f09015b" value="8388611" />
+        <enum name="r_res_0x7f090187" value="48" />
+    </attr>
+    <attr name="r_res_0x7f0401e6" format="integer">
+    </attr>
+    <attr name="r_res_0x7f0401e7">
+        <flag name="r_res_0x7f090053" value="0x2" />
+        <flag name="r_res_0x7f09005b" value="0x100" />
+        <flag name="r_res_0x7f090062" value="0x4" />
+        <flag name="r_res_0x7f090081" value="0x200" />
+        <flag name="r_res_0x7f090088" value="0x8" />
+        <flag name="r_res_0x7f090089" value="0x1" />
+        <flag name="r_res_0x7f0900bb" value="0x40" />
+        <flag name="r_res_0x7f0900bc" value="0x80" />
+        <flag name="r_res_0x7f0900be" value="0x400" />
+        <flag name="r_res_0x7f0900bf" value="0x20" />
+        <flag name="r_res_0x7f090105" value="0x0" />
+        <flag name="r_res_0x7f09011f" value="0x10" />
+        <flag name="r_res_0x7f09015a" value="0x101" />
+    </attr>
+    <attr name="r_res_0x7f0401e8">
+        <flag name="r_res_0x7f09009e" value="0x4" />
+        <flag name="r_res_0x7f09009f" value="0x8" />
+        <flag name="r_res_0x7f0900a0" value="0x2" />
+        <flag name="r_res_0x7f090104" value="0x0" />
+        <flag name="r_res_0x7f09012f" value="0x1" />
+        <flag name="r_res_0x7f09014f" value="0x10" />
+        <flag name="r_res_0x7f090150" value="0x20" />
+    </attr>
+    <attr name="r_res_0x7f0401e9" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0401ea" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f0401eb" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0401ec" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0401ed" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0401ee" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0401ef" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0401f0" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0401f1" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0401f2" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0401f3" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0401f4" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0401f5" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0401f6" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0401f7" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0401f8" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0401f9" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0401fa" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0401fb" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0401fc" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0401fd" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0401fe" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0401ff" format="string">
+    </attr>
+    <attr name="r_res_0x7f040200" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040201" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040202" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040203" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040204" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040205" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040206" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040207" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040208" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040209" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04020a" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04020b" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04020c" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04020d" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04020e" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04020f" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040210" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040211" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040212" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040213" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040214" format="float">
+    </attr>
+    <attr name="r_res_0x7f040215" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040216" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040217" format="integer">
+    </attr>
+    <attr name="r_res_0x7f040218" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040219" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04021a" format="integer">
+    </attr>
+    <attr name="r_res_0x7f04021b" format="float">
+    </attr>
+    <attr name="r_res_0x7f04021c" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04021d" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04021e" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04021f" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040220" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040221" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040222" format="color">
+    </attr>
+    <attr name="r_res_0x7f040223" format="string">
+    </attr>
+    <attr name="r_res_0x7f040224" format="color">
+    </attr>
+    <attr name="r_res_0x7f040225" format="color">
+    </attr>
+    <attr name="r_res_0x7f040226" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040227" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040228">
+        <enum name="r_res_0x7f090006" value="0" />
+        <enum name="r_res_0x7f090008" value="3" />
+        <enum name="r_res_0x7f090009" value="2" />
+        <enum name="r_res_0x7f09000a" value="1" />
+    </attr>
+    <attr name="r_res_0x7f040229" format="reference|string">
+        <enum name="r_res_0x7f090059" value="5" />
+        <enum name="r_res_0x7f090098" value="1" />
+        <enum name="r_res_0x7f090099" value="0" />
+        <enum name="r_res_0x7f09009a" value="2" />
+        <enum name="r_res_0x7f0900d9" value="3" />
+    </attr>
+    <attr name="r_res_0x7f04022a" format="float">
+    </attr>
+    <attr name="r_res_0x7f04022b" format="float">
+    </attr>
+    <attr name="r_res_0x7f04022c" format="float">
+    </attr>
+    <attr name="r_res_0x7f04022d" format="reference|string">
+    </attr>
+    <attr name="r_res_0x7f04022e" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04022f" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040230" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040231" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040232" format="string">
+    </attr>
+    <attr name="r_res_0x7f040233" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040234">
+        <enum name="r_res_0x7f0900da" value="1" />
+        <enum name="r_res_0x7f090106" value="0" />
+        <enum name="r_res_0x7f090165" value="2" />
+    </attr>
+    <attr name="r_res_0x7f040235" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040236">
+        <flag name="r_res_0x7f09008b" value="0x1" />
+        <flag name="r_res_0x7f09008c" value="0x2" />
+        <flag name="r_res_0x7f090105" value="0x0" />
+    </attr>
+    <attr name="r_res_0x7f040237" format="integer">
+    </attr>
+    <attr name="r_res_0x7f040238">
+        <flag name="r_res_0x7f090000" value="0x2" />
+        <flag name="r_res_0x7f090003" value="0x1000" />
+        <flag name="r_res_0x7f090004" value="0x8" />
+        <flag name="r_res_0x7f090005" value="0x10000" />
+        <flag name="r_res_0x7f090007" value="0x1" />
+        <flag name="r_res_0x7f09000b" value="0x4" />
+    </attr>
+    <attr name="r_res_0x7f040239" format="string">
+    </attr>
+    <attr name="r_res_0x7f04023a" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04023b" format="string">
+    </attr>
+    <attr name="r_res_0x7f04023c" format="string">
+    </attr>
+    <attr name="r_res_0x7f04023d" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04023e">
+        <enum name="r_res_0x7f090050" value="0" />
+        <enum name="r_res_0x7f090051" value="2" />
+        <enum name="r_res_0x7f090052" value="1" />
+        <enum name="r_res_0x7f09007b" value="4" />
+        <enum name="r_res_0x7f09007c" value="5" />
+        <enum name="r_res_0x7f090161" value="3" />
+    </attr>
+    <attr name="r_res_0x7f04023f" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040240" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040241" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040242" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040243" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040244" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040245" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040246" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040247" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040248" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040249" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04024a" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04024b" format="string">
+    </attr>
+    <attr name="r_res_0x7f04024c" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04024d" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04024e" format="color">
+    </attr>
+    <attr name="r_res_0x7f04024f">
+        <enum name="r_res_0x7f090101" value="14" />
+        <enum name="r_res_0x7f09012e" value="15" />
+        <enum name="r_res_0x7f090157" value="9" />
+        <enum name="r_res_0x7f090158" value="5" />
+        <enum name="r_res_0x7f090159" value="3" />
+    </attr>
+    <attr name="r_res_0x7f040250">
+        <enum name="r_res_0x7f0900aa" value="3" />
+        <enum name="r_res_0x7f090105" value="0" />
+        <enum name="r_res_0x7f09015c" value="2" />
+        <enum name="r_res_0x7f09015d" value="1" />
+    </attr>
+    <attr name="r_res_0x7f040251" format="float">
+    </attr>
+    <attr name="r_res_0x7f040252" format="float">
+    </attr>
+    <attr name="r_res_0x7f040253" format="float">
+    </attr>
+    <attr name="r_res_0x7f040254" format="float">
+    </attr>
+    <attr name="r_res_0x7f040255" format="float">
+    </attr>
+    <attr name="r_res_0x7f040256" format="float">
+    </attr>
+    <attr name="r_res_0x7f040257" format="reference">
+        <enum name="r_res_0x7f09010f" value="0" />
+    </attr>
+    <attr name="r_res_0x7f040258" format="string">
+    </attr>
+    <attr name="r_res_0x7f040259" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04025a" format="color">
+    </attr>
+    <attr name="r_res_0x7f04025b">
+        <enum name="r_res_0x7f0900ba" value="8" />
+        <enum name="r_res_0x7f0900ce" value="4" />
+        <enum name="r_res_0x7f090198" value="0" />
+    </attr>
+    <attr name="r_res_0x7f04025c" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04025d" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04025e" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04025f" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040260" format="string">
+    </attr>
+    <attr name="r_res_0x7f040261" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040262" format="color">
+    </attr>
+    <attr name="r_res_0x7f040263" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040264" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040265" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040266" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040267" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040268" format="string">
+    </attr>
+    <attr name="r_res_0x7f040269" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04026a" format="color">
+    </attr>
+    <attr name="r_res_0x7f04026b" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04026c" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04026d" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04026e" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04026f" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040270" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040271" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040272" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040273" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040274" format="color">
+    </attr>
+    <attr name="r_res_0x7f040275" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040276" format="float">
+    </attr>
+    <attr name="r_res_0x7f040277" format="float">
+    </attr>
+    <attr name="r_res_0x7f040278" format="integer">
+    </attr>
+    <attr name="r_res_0x7f040279" format="reference|color">
+    </attr>
+    <attr name="r_res_0x7f04027a" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04027b" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04027c" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04027d" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04027e" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04027f" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040280" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040281" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040282" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040283" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040284" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040285" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040286" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040287">
+        <flag name="r_res_0x7f090049" value="0x2" />
+        <flag name="r_res_0x7f09006f" value="0x8" />
+        <flag name="r_res_0x7f0900c6" value="0x1" />
+        <flag name="r_res_0x7f090103" value="0x0" />
+        <flag name="r_res_0x7f09019b" value="0x4" />
+    </attr>
+    <attr name="r_res_0x7f040288">
+        <flag name="r_res_0x7f090056" value="0x1" />
+        <flag name="r_res_0x7f09009c" value="0x4" />
+        <flag name="r_res_0x7f0900e3" value="0x2" />
+        <flag name="r_res_0x7f090105" value="0x0" />
+    </attr>
+    <attr name="r_res_0x7f040289" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04028a" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04028b" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04028c" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04028d" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04028e" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04028f" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040290" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040291" format="float">
+    </attr>
+    <attr name="r_res_0x7f040292" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040293" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040294" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040295" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040296" format="integer">
+    </attr>
+    <attr name="r_res_0x7f040297" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040298" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040299" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04029a" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04029b" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04029c" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04029d" format="float">
+    </attr>
+    <attr name="r_res_0x7f04029e" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04029f" format="string">
+    </attr>
+    <attr name="r_res_0x7f0402a0" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402a1" format="color">
+    </attr>
+    <attr name="r_res_0x7f0402a2">
+        <enum name="r_res_0x7f090101" value="14" />
+        <enum name="r_res_0x7f09012e" value="15" />
+        <enum name="r_res_0x7f090157" value="9" />
+        <enum name="r_res_0x7f090158" value="5" />
+        <enum name="r_res_0x7f090159" value="3" />
+    </attr>
+    <attr name="r_res_0x7f0402a3" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f0402a4" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f0402a5" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f0402a6" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f0402a7" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f0402a8" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f0402a9" format="reference|color">
+    </attr>
+    <attr name="r_res_0x7f0402aa" format="color">
+    </attr>
+    <attr name="r_res_0x7f0402ab" format="color">
+    </attr>
+    <attr name="r_res_0x7f0402ac" format="color">
+    </attr>
+    <attr name="r_res_0x7f0402ad" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0402ae" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402af" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402b0" format="string">
+    </attr>
+    <attr name="r_res_0x7f0402b1" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402b2" format="color">
+    </attr>
+    <attr name="r_res_0x7f0402b3" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402b4" format="string">
+    </attr>
+    <attr name="r_res_0x7f0402b5" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402b6" format="color">
+    </attr>
+    <attr name="r_res_0x7f0402b7" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402b8" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0402b9" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0402ba" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402bb" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402bc" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402bd" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0402be">
+        <enum name="r_res_0x7f09005e" value="1" />
+        <enum name="r_res_0x7f0900a4" value="0" />
+        <enum name="r_res_0x7f09015b" value="2" />
+    </attr>
+    <attr name="r_res_0x7f0402bf" format="color">
+    </attr>
+    <attr name="r_res_0x7f0402c0">
+        <enum name="r_res_0x7f090044" value="16" />
+        <enum name="r_res_0x7f090101" value="14" />
+        <enum name="r_res_0x7f09012e" value="15" />
+        <enum name="r_res_0x7f090157" value="9" />
+        <enum name="r_res_0x7f090158" value="5" />
+        <enum name="r_res_0x7f090159" value="3" />
+    </attr>
+    <attr name="r_res_0x7f0402c1" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402c2" format="integer">
+    </attr>
+    <attr name="r_res_0x7f0402c3" format="color">
+    </attr>
+    <attr name="r_res_0x7f0402c4" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f0402c5">
+        <enum name="r_res_0x7f090058" value="0" />
+        <enum name="r_res_0x7f09005e" value="1" />
+        <enum name="r_res_0x7f090162" value="3" />
+        <enum name="r_res_0x7f090187" value="2" />
+    </attr>
+    <attr name="r_res_0x7f0402c6" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0402c7" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f0402c8" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0402c9" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0402ca">
+        <enum name="r_res_0x7f09004f" value="2" />
+        <enum name="r_res_0x7f0900a9" value="1" />
+        <enum name="r_res_0x7f090134" value="0" />
+    </attr>
+    <attr name="r_res_0x7f0402cb" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0402cc" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0402cd" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0402ce" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0402cf" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0402d0" format="color">
+    </attr>
+    <attr name="r_res_0x7f0402d1" format="color">
+    </attr>
+    <attr name="r_res_0x7f0402d2" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402d3" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402d4" format="color">
+    </attr>
+    <attr name="r_res_0x7f0402d5" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f0402d6" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402d7" format="color">
+    </attr>
+    <attr name="r_res_0x7f0402d8" format="float">
+    </attr>
+    <attr name="r_res_0x7f0402d9">
+        <enum name="r_res_0x7f0900d5" value="0" />
+        <enum name="r_res_0x7f09011a" value="1" />
+        <enum name="r_res_0x7f09015e" value="3" />
+        <enum name="r_res_0x7f09015f" value="2" />
+    </attr>
+    <attr name="r_res_0x7f0402da" format="reference|boolean">
+    </attr>
+    <attr name="r_res_0x7f0402db" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402dc" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402dd" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402de" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402df" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402e0" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402e1" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402e2" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402e3" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402e4" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402e5" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402e6" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f0402e7" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402e8" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402e9" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402ea" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402eb" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402ec" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402ed" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402ee" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402ef" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402f0" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402f1" format="reference|color">
+    </attr>
+    <attr name="r_res_0x7f0402f2" format="reference|color">
+    </attr>
+    <attr name="r_res_0x7f0402f3" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0402f4" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f0402f5" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402f6" format="string">
+    </attr>
+    <attr name="r_res_0x7f0402f7" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0402f8" format="reference">
+    </attr>
+    <attr name="r_res_0x7f0402f9" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0402fa" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0402fb" format="color">
+    </attr>
+    <attr name="r_res_0x7f0402fc" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0402fd" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0402fe" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f0402ff" format="color">
+    </attr>
+    <attr name="r_res_0x7f040300">
+        <enum name="r_res_0x7f090044" value="16" />
+        <enum name="r_res_0x7f090101" value="14" />
+        <enum name="r_res_0x7f09012e" value="15" />
+        <enum name="r_res_0x7f090157" value="9" />
+        <enum name="r_res_0x7f090158" value="5" />
+        <enum name="r_res_0x7f090159" value="3" />
+    </attr>
+    <attr name="r_res_0x7f040301" format="color">
+    </attr>
+    <attr name="r_res_0x7f040302" format="color">
+    </attr>
+    <attr name="r_res_0x7f040303" format="color">
+    </attr>
+    <attr name="r_res_0x7f040304" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040305" format="color">
+    </attr>
+    <attr name="r_res_0x7f040306">
+        <enum name="r_res_0x7f090044" value="16" />
+        <enum name="r_res_0x7f090101" value="14" />
+        <enum name="r_res_0x7f09012e" value="15" />
+        <enum name="r_res_0x7f090157" value="9" />
+        <enum name="r_res_0x7f090158" value="5" />
+        <enum name="r_res_0x7f090159" value="3" />
+    </attr>
+    <attr name="r_res_0x7f040307" format="color">
+    </attr>
+    <attr name="r_res_0x7f040308">
+        <enum name="r_res_0x7f090044" value="16" />
+        <enum name="r_res_0x7f090101" value="14" />
+        <enum name="r_res_0x7f09012e" value="15" />
+        <enum name="r_res_0x7f090157" value="9" />
+        <enum name="r_res_0x7f090158" value="5" />
+        <enum name="r_res_0x7f090159" value="3" />
+    </attr>
+    <attr name="r_res_0x7f040309" format="string">
+    </attr>
+    <attr name="r_res_0x7f04030a" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04030b" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04030c" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04030d" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04030e" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f04030f" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040310" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040311" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040312" format="color">
+    </attr>
+    <attr name="r_res_0x7f040313" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040314" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040315" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040316" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040317" format="reference|color">
+    </attr>
+    <attr name="r_res_0x7f040318" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040319" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04031a" format="string">
+    </attr>
+    <attr name="r_res_0x7f04031b" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04031c">
+        <enum name="r_res_0x7f090058" value="3" />
+        <enum name="r_res_0x7f09009c" value="6" />
+        <enum name="r_res_0x7f0900d6" value="1" />
+        <enum name="r_res_0x7f0900e3" value="4" />
+        <enum name="r_res_0x7f090123" value="2" />
+        <enum name="r_res_0x7f09015b" value="5" />
+        <enum name="r_res_0x7f090187" value="0" />
+    </attr>
+    <attr name="r_res_0x7f04031d" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04031e" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04031f" format="color">
+    </attr>
+    <attr name="r_res_0x7f040320" format="color">
+    </attr>
+    <attr name="r_res_0x7f040321" format="color">
+    </attr>
+    <attr name="r_res_0x7f040322" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040323" format="color">
+    </attr>
+    <attr name="r_res_0x7f040324">
+        <enum name="r_res_0x7f090044" value="16" />
+        <enum name="r_res_0x7f090101" value="14" />
+        <enum name="r_res_0x7f09012e" value="15" />
+        <enum name="r_res_0x7f090157" value="9" />
+        <enum name="r_res_0x7f090158" value="5" />
+        <enum name="r_res_0x7f090159" value="3" />
+    </attr>
+    <attr name="r_res_0x7f040325" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040326" format="string">
+        <enum name="r_res_0x7f09000e" value="1" />
+        <enum name="r_res_0x7f09007b" value="2" />
+        <enum name="r_res_0x7f0900d9" value="3" />
+        <enum name="r_res_0x7f09015a" value="0" />
+    </attr>
+    <attr name="r_res_0x7f040327">
+        <flag name="r_res_0x7f090055" value="0x1" />
+        <flag name="r_res_0x7f090105" value="0x0" />
+    </attr>
+    <attr name="r_res_0x7f040328" format="float">
+    </attr>
+    <attr name="r_res_0x7f040329" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04032a" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04032b" format="reference">
+    </attr>
+    <attr name="r_res_0x7f04032c" format="float">
+    </attr>
+    <attr name="r_res_0x7f04032d" format="integer">
+    </attr>
+    <attr name="r_res_0x7f04032e" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04032f" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040330" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040331" format="dimension">
+    </attr>
+    <attr name="r_res_0x7f040332" format="string">
+    </attr>
+    <attr name="r_res_0x7f040333">
+        <enum name="r_res_0x7f0900c7" value="1" />
+        <enum name="r_res_0x7f090106" value="0" />
+    </attr>
+    <attr name="r_res_0x7f040334" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040335" format="float">
+    </attr>
+    <attr name="r_res_0x7f040336" format="integer">
+    </attr>
+    <attr name="r_res_0x7f040337" format="float|dimension">
+    </attr>
+    <attr name="r_res_0x7f040338" format="float">
+    </attr>
+    <attr name="r_res_0x7f040339">
+        <enum name="r_res_0x7f090059" value="6" />
+        <enum name="r_res_0x7f090076" value="5" />
+        <enum name="r_res_0x7f090122" value="4" />
+        <enum name="r_res_0x7f09012c" value="3" />
+        <enum name="r_res_0x7f090149" value="0" />
+        <enum name="r_res_0x7f090156" value="1" />
+        <enum name="r_res_0x7f090191" value="2" />
+    </attr>
+    <attr name="r_res_0x7f04033a">
+        <enum name="r_res_0x7f090114" value="1" />
+        <enum name="r_res_0x7f090119" value="0" />
+    </attr>
+    <attr name="r_res_0x7f04033b" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04033c" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04033d" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f04033e" format="dimension|fraction">
+    </attr>
+    <attr name="r_res_0x7f04033f" format="dimension|fraction">
+    </attr>
+    <attr name="r_res_0x7f040340" format="dimension|fraction">
+    </attr>
+    <attr name="r_res_0x7f040341" format="dimension|fraction">
+    </attr>
+    <attr name="r_res_0x7f040342" format="dimension|fraction">
+    </attr>
+    <attr name="r_res_0x7f040343" format="dimension|fraction">
+    </attr>
+    <attr name="r_res_0x7f040344" format="boolean">
+    </attr>
+    <attr name="r_res_0x7f040345" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040346" format="reference">
+    </attr>
+    <attr name="r_res_0x7f040347" format="reference">
+    </attr>
+</resources>

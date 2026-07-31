@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.view.menu.ListMenuItemView xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:minWidth="196dp">
+	<ImageView android:id="@+id/r_res_0x7f0900bd" android:background="@drawable/r_res_0x7f080030" android:layout_width="match_parent" android:layout_height="1dp" android:layout_marginTop="4dp" android:layout_marginBottom="4dp" />
+	<LinearLayout android:id="@+id/r_res_0x7f090072" android:duplicateParentState="true" android:layout_width="match_parent" android:layout_height="?attr/r_res_0x7f040115" style="@style/r_res_0x7f100102">
+		<RelativeLayout android:layout_gravity="center_vertical" android:duplicateParentState="true" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" style="@style/r_res_0x7f100103">
+			<TextView android:textAppearance="?attr/r_res_0x7f0402e5" android:ellipsize="marquee" android:id="@+id/r_res_0x7f090181" android:fadingEdge="horizontal" android:duplicateParentState="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:singleLine="true" android:layout_alignParentTop="true" style="@style/r_res_0x7f100106" />
+			<TextView android:textAppearance="?attr/r_res_0x7f0402ee" android:id="@+id/r_res_0x7f090145" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_below="@id/r_res_0x7f090181" style="@style/r_res_0x7f100106" />
+		</RelativeLayout>
+		<ImageView android:layout_gravity="left|center_vertical" android:id="@+id/r_res_0x7f090163" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="center" style="@style/r_res_0x7f100105" />
+	</LinearLayout>
+</androidx.appcompat.view.menu.ListMenuItemView>
+
+

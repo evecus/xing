@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="r_res_0x7f10018b" parent="@style/r_res_0x7f100189">
+    </style>
+    <style name="r_res_0x7f10018c" parent="@style/r_res_0x7f100189">
+    </style>
+    <style name="r_res_0x7f10018d" parent="@style/r_res_0x7f100192">
+    </style>
+    <style name="r_res_0x7f10018e" parent="@style/r_res_0x7f100193">
+    </style>
+    <style name="r_res_0x7f10018f" parent="@style/r_res_0x7f100194">
+    </style>
+    <style name="r_res_0x7f100190" parent="@style/r_res_0x7f100195">
+    </style>
+    <style name="r_res_0x7f100191" parent="@style/r_res_0x7f10019e">
+    </style>
+    <style name="r_res_0x7f1001a9" parent="@style/r_res_0x7f1001a5">
+    </style>
+    <style name="r_res_0x7f1001aa" parent="@style/r_res_0x7f1001a6">
+    </style>
+    <style name="r_res_0x7f1001ab" parent="@style/r_res_0x7f1001a7">
+    </style>
+    <style name="r_res_0x7f1001ac" parent="@style/r_res_0x7f1001a5">
+    </style>
+    <style name="r_res_0x7f1001ad" parent="@style/r_res_0x7f1001a7">
+    </style>
+    <style name="r_res_0x7f1001ae" parent="@style/r_res_0x7f1001b9">
+    </style>
+    <style name="r_res_0x7f1001af" parent="@style/r_res_0x7f1001ba">
+    </style>
+    <style name="r_res_0x7f1001b0" parent="@style/r_res_0x7f1001bb">
+    </style>
+    <style name="r_res_0x7f1001b1" parent="@style/r_res_0x7f1001bc">
+    </style>
+    <style name="r_res_0x7f1001b2" parent="@style/r_res_0x7f1001bd">
+    </style>
+    <style name="r_res_0x7f1001b3" parent="@style/r_res_0x7f1001be">
+    </style>
+    <style name="r_res_0x7f1001b4" parent="@style/r_res_0x7f1001bf">
+    </style>
+    <style name="r_res_0x7f1001b5" parent="@style/r_res_0x7f1001c0">
+    </style>
+    <style name="r_res_0x7f1001b6" parent="@style/r_res_0x7f1001c1">
+    </style>
+    <style name="r_res_0x7f1001b7" parent="@style/r_res_0x7f1001d4">
+    </style>
+    <style name="r_res_0x7f1001b8" parent="@style/r_res_0x7f1001d5">
+    </style>
+    <style name="r_res_0x7f1001da" parent="@style/r_res_0x7f1001d8">
+    </style>
+    <style name="r_res_0x7f1001ee" parent="@style/r_res_0x7f1001eb">
+    </style>
+    <style name="r_res_0x7f10025d" parent="@style/r_res_0x7f10025f">
+    </style>
+    <style name="r_res_0x7f100261" parent="@style/r_res_0x7f100262">
+    </style>
+    <style name="r_res_0x7f10026a" parent="@style/r_res_0x7f100268">
+    </style>
+    <style name="r_res_0x7f10026d" parent="@style/r_res_0x7f10026b">
+    </style>
+    <style name="r_res_0x7f1002a9" parent="@style/r_res_0x7f1002a7">
+    </style>
+    <style name="r_res_0x7f1002b9" parent="@style/r_res_0x7f1002ba">
+    </style>
+</resources>

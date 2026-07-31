@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="r_res_0x7f0f0000">转到首页</string>
+    <string name="r_res_0x7f0f0001">转到上一层级</string>
+    <string name="r_res_0x7f0f0002">更多选项</string>
+    <string name="r_res_0x7f0f0003">完成</string>
+    <string name="r_res_0x7f0f0004">查看全部</string>
+    <string name="r_res_0x7f0f0005">选择应用</string>
+    <string name="r_res_0x7f0f0006">关闭</string>
+    <string name="r_res_0x7f0f0007">开启</string>
+    <string name="r_res_0x7f0f0008">Alt+</string>
+    <string name="r_res_0x7f0f0009">Ctrl+</string>
+    <string name="r_res_0x7f0f000a">Delete 键</string>
+    <string name="r_res_0x7f0f000b">Enter 键</string>
+    <string name="r_res_0x7f0f000c">Fn+</string>
+    <string name="r_res_0x7f0f000d">Meta+</string>
+    <string name="r_res_0x7f0f000e">Shift+</string>
+    <string name="r_res_0x7f0f000f">空格键</string>
+    <string name="r_res_0x7f0f0010">Sym+</string>
+    <string name="r_res_0x7f0f0011">Menu+</string>
+    <string name="r_res_0x7f0f0012">搜索…</string>
+    <string name="r_res_0x7f0f0013">清除查询</string>
+    <string name="r_res_0x7f0f0014">搜索查询</string>
+    <string name="r_res_0x7f0f0015">搜索</string>
+    <string name="r_res_0x7f0f0016">提交查询</string>
+    <string name="r_res_0x7f0f0017">语音搜索</string>
+    <string name="r_res_0x7f0f0018">分享对象</string>
+    <string name="r_res_0x7f0f0019">与%s分享</string>
+    <string name="r_res_0x7f0f001a">收起</string>
+    <string name="r_res_0x7f0f002f">星环</string>
+    <string name="r_res_0x7f0f0075">搜索</string>
+    <string name="r_res_0x7f0f0076">999+</string>
+</resources>

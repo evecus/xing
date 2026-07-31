@@ -1,0 +1,1 @@
+{"vendor":"../vendor/*","lua_ext":"../lua/*","style":"../theme/*","media":"../images/*","media_ext":"../images_ext/*","apps_path":"../pages/*","apps_path_ext":["../pages/*"],"license_origin_path":"../projects/*/library/vendor/software_license.txt","license_path_compile":"../vendor/software_license.txt","key":"../projects/app_bundles/assets/vendor/PKG_KEY_BASE.bin"}

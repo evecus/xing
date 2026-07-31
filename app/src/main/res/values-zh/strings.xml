@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="r_res_0x7f0f002f">星环</string>
+    <string name="r_res_0x7f0f0038">点击打开</string>
+    <string name="r_res_0x7f0f0039">即将开始下载文件</string>
+    <string name="r_res_0x7f0f003a">已下载:%s</string>
+    <string name="r_res_0x7f0f003b">当前进度:%s</string>
+    <string name="r_res_0x7f0f003c">下载失败!</string>
+    <string name="r_res_0x7f0f003d">文件下载</string>
+    <string name="r_res_0x7f0f003e">已暂停</string>
+    <string name="r_res_0x7f0f003f">提示</string>
+    <string name="r_res_0x7f0f0040">您有一条新通知</string>
+</resources>

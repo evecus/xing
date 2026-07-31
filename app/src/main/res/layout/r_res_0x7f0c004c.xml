@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="horizontal" android:id="@+id/r_res_0x7f0900e6" android:paddingTop="@dimen/r_res_0x7f0700e5" android:paddingBottom="@dimen/r_res_0x7f0700e3" android:layout_width="match_parent" android:layout_height="wrap_content">
+	<FrameLayout android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1">
+		<com.google.android.material.button.MaterialButton android:gravity="center_vertical|start" android:layout_gravity="start" android:id="@+id/r_res_0x7f0900e7" android:layout_width="wrap_content" android:layout_height="@dimen/r_res_0x7f0700e4" android:insetTop="0dp" android:insetBottom="0dp" app:icon="@drawable/r_res_0x7f080082" app:iconGravity="4" app:iconPadding="4dp" />
+	</FrameLayout>
+	<com.google.android.material.button.MaterialButton android:gravity="left|center_vertical" android:id="@+id/r_res_0x7f0900e9" android:layout_width="@dimen/r_res_0x7f07011d" android:layout_height="@dimen/r_res_0x7f0700e4" android:insetTop="0dp" android:insetBottom="0dp" android:contentDescription="@string/r_res_0x7f0f0052" app:icon="@drawable/r_res_0x7f080080" />
+	<com.google.android.material.button.MaterialButton android:gravity="left|center_vertical" android:id="@+id/r_res_0x7f0900e8" android:layout_width="@dimen/r_res_0x7f07011d" android:layout_height="@dimen/r_res_0x7f0700e4" android:insetTop="0dp" android:insetBottom="0dp" android:contentDescription="@string/r_res_0x7f0f0051" app:icon="@drawable/r_res_0x7f080081" />
+</LinearLayout>
+
+
